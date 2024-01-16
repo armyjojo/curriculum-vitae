@@ -11,20 +11,16 @@ h1 {
 }
 
 .contact {
-    color: yellowgreen;
+    color: #ff8000;
 }
 
 #description {
-    display: inline-block;
-    background: linear-gradient(to left, rgb(255,0,0), rgb(255,255,0));
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: yellow;
     font-size: 25px;
 }
 
 h2{
-  color: goldenrod;
+  color: #ff8000;
   font-size: 40px;
   text-decoration: underline;
 }
@@ -43,7 +39,7 @@ h2{
 }
 
 #education {
-    color:yellowgreen;
+    color:yellow;
     font-size: 20px;
 }
 
