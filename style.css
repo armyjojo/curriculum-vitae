@@ -1,0 +1,54 @@
+body {
+    background-image: url(./images/programming-5287885_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.contact {
+    color: yellowgreen;
+}
+
+#description {
+    display: inline-block;
+    background: linear-gradient(to left, rgb(255,0,0), rgb(255,255,0));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+}
+
+h2{
+  color: goldenrod;
+  font-size: 40px;
+}
+
+#contact {
+    text-align: center;
+}    
+
+.text-red{
+  color: red;
+}
+
+#expPro {
+    color: yellow;
+    font-size: 20px;
+}
+
+#education {
+    color:yellowgreen;
+    font-size: 20px;
+}
+
+.lien {
+    text-align: center;
+}
+
+img {
+    margin: 30px;
+}
