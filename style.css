@@ -1,6 +1,7 @@
 body {
-    background-image: url(./images/programming-5287885_1280.jpg);
-    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background: url(./images/programming-5287885_1280.jpg) no-repeat center fixed;
     background-size: cover;
 }
 
@@ -25,6 +26,7 @@ h1 {
 h2{
   color: goldenrod;
   font-size: 40px;
+  text-decoration: underline;
 }
 
 #contact {
