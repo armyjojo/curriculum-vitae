@@ -1,8 +1,14 @@
+@font-face {
+    font-family: 'Rasa-VariableFont_wght';
+    src: url('./Rasa-VariableFont_wght.ttf') format('truetype')
+  }
+
 body {
     margin: 0;
     padding: 0;
     background: url(./images/programming-5287885_1280.jpg) no-repeat center fixed;
     background-size: cover;
+    font-family: 'Rasa-VariableFont_wght', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1 {
